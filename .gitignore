@@ -97,3 +97,6 @@ WindowsNoEditor/gamedev_project/Saved/Config/WindowsNoEditor/Scalability.ini
 WindowsNoEditor/gamedev_project/Saved/Config/WindowsNoEditor/Synthesis.ini
 WindowsNoEditor/gamedev_project/Saved/Config/WindowsNoEditor/VariantManagerContent.ini
 WindowsNoEditor/Manifest_NonUFSFiles_Win64.txt
+*.log
+*.log
+Saved/Logs/gamedev_project.log
